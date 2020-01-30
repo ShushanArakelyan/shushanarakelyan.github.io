@@ -498,8 +498,8 @@ ul.ul-interest {
 
 .ul-interest .date {
   display: inline-block;
-  width: 7rem;
-  text-align: right;
+  /*width: 7rem;*/
+  /*text-align: center;*/
   padding-right: 0.5rem;
   font-weight: bold;
 }
