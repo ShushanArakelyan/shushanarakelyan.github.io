@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Thu, 19 Apr 2018 11:15:10 -0700</lastBuildDate>
+    <lastBuildDate>Fri, 19 Apr 2019 11:15:10 -0700</lastBuildDate>
     
 	<atom:link href="/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Transparent, Scrutable and Explainable User Models for Personalized Recommendation</title>
+      <link>/publication/transparent_scrutable/</link>
+      <pubDate>Fri, 19 Apr 2019 11:15:10 -0700</pubDate>
+      
+      <guid>/publication/transparent_scrutable/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Mining and forecasting career trajectories of music artists</title>
