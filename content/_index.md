@@ -91,23 +91,53 @@ sections:
           company: Microsoft Research
           company_url: ''
           company_logo: ''
-          location: California
-          date_start: '2021-01-01'
-          date_end: ''
+          location: Seattle, WA, USA/Remote
+          date_start: '2022-09'
+          date_end: '2023-03'
           description: |2-
-              Responsibilities include:
-
-              * Analysing
-              * Modelling
-              * Deploying
-        - title: Professor of Semiconductor Physics
-          company: University X
+              Working on large language models for code and their generalization. The resulting paper is currently under review.
+        - title: Software Engineering Intern
+          company: Google
           company_url: ''
-          company_logo: org-x
-          location: California
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
-          description: Taught electronic engineering and researched semiconductor physics.
+          company_logo: ''
+          location: London, UK
+          date_start: '2018-05'
+          date_end: '2018-08'
+          description: Worked on Google Assistant. Researched and developed methods for descriptions of user profiles 
+          for use with recommender systems. The resulting paper appeared in SIGIR’19.
+	- title: Machine Learning Research Engineering
+          company: Qube
+          company_url: ''
+          company_logo: ''
+          location: Yerevan, Armenia
+          date_start: '2016-10'
+          date_end: '2017-08'
+          description: Researching, designing and prototyping state of the art algorithms for computer graphics, image processing, 
+          3D optimization and face reenactment from RGB input.
+         - title: Software Engineering Intern
+          company: Google
+          company_url: ''
+          company_logo: ''
+          location: New York, NY, USA
+          date_start: '2015-06'
+          date_end: '2015-09'
+          description: Worked on Google Cloud Logging Infrastructure
+         - title: Software Engineer
+          company: OneMarketData
+          company_url: ''
+          company_logo: ''
+          location: Yerevan, Armenia
+          date_start: '2013-04'
+          date_end: '2015-05'
+          description: Worked on company’s OneTick line
+         - title: Junior C++ Engineer
+          company: Questrade
+          company_url: ''
+          company_logo: ''
+          location: Yerevan, Armenia
+          date_start: '2012-08'
+          date_end: '2013-03'
+          description: Worked on company’s trading platform front end - a transaction processing application.
     design:
       columns: '2'
  # - block: collection
