@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Shushan Arakelyan 吳恩達
+title: Shushan Arakelyan
 
 # Full name (for SEO)
 first_name: Shushan
@@ -80,7 +80,7 @@ email: 'first name at isi.edu'
 highlight_name: true
 ---
 
-I’m a final year PhD candidate at the University of Southern California. I am part of Intelligence and Knowledge Discovery Lab (INK lab[https://inklab.usc.edu/]), supervised by Prof. Xiang Ren. In the past, I was an intern at Microsoft Research, and Google.
+I’m a final year PhD candidate at the University of Southern California. I am part of Intelligence and Knowledge Discovery Lab ( [INK lab](https://inklab.usc.edu/) ), supervised by Prof. Xiang Ren. In the past, I was an intern at Microsoft Research, and Google.
 
 I am currently on the job market, looking for Research Scientist positions. My research interests and experience lie in large language models and their generalization, particularly, in applications for software and code.
 {style="text-align: justify;"}
