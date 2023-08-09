@@ -41,8 +41,7 @@ sections:
           location: Seattle, WA, USA/Remote
           date_start: '2022-09'
           date_end: '2023-03'
-          description: |2-
-              Working on large language models for code and their generalization. The resulting paper is currently under review.
+          description: Working on large language models for code and their generalization. The resulting paper is currently under review.
         - title: Software Engineering Intern
           company: Google
           company_url: ''
