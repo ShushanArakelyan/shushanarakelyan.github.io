@@ -27,8 +27,8 @@ bio: My research interests include large language models, and their applications
 # Interests to show in About widget
 interests:
   - Artificial Intelligence for Code
+  - Large Language Models and Generalization
   - Machine Learning
-  - Computational Linguistics
 
 # Education to show in About widget
 education:

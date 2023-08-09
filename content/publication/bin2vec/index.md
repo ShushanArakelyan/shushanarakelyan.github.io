@@ -1,5 +1,5 @@
 ---
-title: "An example journal article"
+title: "Bin2vec: learning representations of binary executable programs for security tasks"
 authors:
 - Shushan Arakelyan
 - Sima Arasteh
@@ -31,19 +31,19 @@ abstract: Tackling binary program analysis problems has traditionally implied ma
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
-- ml for binary analysis; binary code representation
+- ml for code; binary analysis; binary code representation; 
 featured: false
 
 # links:
 # - name: ""
 #   url: ""
 url_pdf: https://cybersecurity.springeropen.com/articles/10.1186/s42400-021-00088-4
-url_code: 'https://cybersecurity.springeropen.com/articles/10.1186/s42400-021-00088-4'
+url_code: 'https://github.com/usc-isi-bass/binary_analysis'
 url_dataset: ''
 url_poster: ''
 url_project: ''
 url_slides: 'https://docs.google.com/presentation/d/142d7Z-4ffEVBLRuyD5YdHwhNjCHrrqAx/edit?usp=sharing&ouid=100437562451567329044&rtpof=true&sd=true'
-url_source: 'https://github.com/usc-isi-bass/binary_analysis'
+url_source: ''
 url_video: ''
 
 # Featured image
