@@ -49,8 +49,7 @@ sections:
           location: London, UK
           date_start: '2018-05'
           date_end: '2018-08'
-          description: Worked on Google Assistant. Researched and developed methods for descriptions of user profiles 
-          for use with recommender systems. The resulting paper appeared in SIGIR'19.
+          description: Worked on Google Assistant. Researched and developed methods for descriptions of user profiles for use with recommender systems. The resulting paper appeared in SIGIR'19.
         - title: Machine Learning Research Engineering
           company: Qube
           company_url: ''
