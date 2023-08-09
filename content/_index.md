@@ -58,7 +58,7 @@ sections:
           date_start: '2016-10'
           date_end: '2017-08'
           description: Researching, designing and prototyping state of the art algorithms for computer graphics, image processing, 3D optimization and face reenactment from RGB input.
-         - title: Software Engineering Intern
+        - title: Software Engineering Intern
           company: Google
           company_url: ''
           company_logo: ''
@@ -66,7 +66,7 @@ sections:
           date_start: '2015-06'
           date_end: '2015-09'
           description: Worked on Google Cloud Logging Infrastructure
-         - title: Software Engineer
+        - title: Software Engineer
           company: OneMarketData
           company_url: ''
           company_logo: ''
@@ -74,7 +74,7 @@ sections:
           date_start: '2013-04'
           date_end: '2015-05'
           description: Worked on company’s OneTick line
-         - title: Junior C++ Engineer
+        - title: Junior C++ Engineer
           company: Questrade
           company_url: ''
           company_logo: ''
