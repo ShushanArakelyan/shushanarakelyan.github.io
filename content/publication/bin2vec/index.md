@@ -32,7 +32,7 @@ abstract: Tackling binary program analysis problems has traditionally implied ma
 
 tags:
 - ml for code; binary analysis; binary code representation; 
-featured: false
+featured: yes
 
 # links:
 # - name: ""
@@ -44,28 +44,28 @@ url_poster: ''
 url_project: ''
 url_slides: 'https://docs.google.com/presentation/d/142d7Z-4ffEVBLRuyD5YdHwhNjCHrrqAx/edit?usp=sharing&ouid=100437562451567329044&rtpof=true&sd=true'
 url_source: ''
-url_video: ''
+url_video: "assets/videos/bin2vec.mp4"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
-  focal_point: ""
-  preview_only: false
+  caption: 'Image from a video created by Sima Arasteh for our project! '
+  focal_point: "yes"
+  preview_only: true
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects: []
+projects: [ML for Program Analysis]
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: example
+slides: "https://docs.google.com/presentation/d/142d7Z-4ffEVBLRuyD5YdHwhNjCHrrqAx/edit?usp=sharing&ouid=100437562451567329044&rtpof=true&sd=true"
 ---
 
 {{% callout note %}}

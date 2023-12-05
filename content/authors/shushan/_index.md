@@ -26,7 +26,7 @@ bio: My research interests include large language models, and their applications
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence for Code
+  - AI for Code
   - Large Language Models and Generalization
   - Machine Learning
 
@@ -82,5 +82,5 @@ highlight_name: true
 
 I’m a final year PhD candidate at the University of Southern California. I am part of Intelligence and Knowledge Discovery Lab ( [INK lab](https://inklab.usc.edu/) ), supervised by Prof. Xiang Ren. In the past, I was an intern at Microsoft Research, and Google.
 
-I am currently on the job market, looking for Research Scientist positions. My research interests and experience lie in large language models and their generalization, particularly, in applications for software and code.
+I am currently on the industry job market, my research experience is in large language models and their generalization, in particular in applications to software and code. I am open to jobs in many topics in NLP/LLMs, with specific interest in ensuring robustness, reliability, and safety of deployed NLP models.
 {style="text-align: justify;"}
