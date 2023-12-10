@@ -44,7 +44,10 @@ url_poster: ''
 url_project: ''
 url_slides: 'https://docs.google.com/presentation/d/142d7Z-4ffEVBLRuyD5YdHwhNjCHrrqAx/edit?usp=sharing&ouid=100437562451567329044&rtpof=true&sd=true'
 url_source: ''
-url_video: "assets/media/videos/bin2vec.mp4"
+url_video: "assets/media/
+
+
+videos/bin2vec.mp4"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 

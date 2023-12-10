@@ -33,7 +33,7 @@ links:
 url_pdf: https://arxiv.org/pdf/2303.09128.pdf
 url_code: 'https://arxiv.org/pdf/2303.09128.pdf'
 url_dataset: '#'
-url_poster: '#'
+url_poster: 'assets/media/posters/EMNLP23-poster.pdf'
 url_project: ''
 url_slides: ''
 url_source: '#'
