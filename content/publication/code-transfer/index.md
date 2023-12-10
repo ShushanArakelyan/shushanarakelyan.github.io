@@ -22,20 +22,20 @@ abstract: We systematically study the capacity of two large language models for 
 
 tags:
 - ml for code
-- generalization
-featured: yes
+- generelization
+featured: yes 
 
 # links:
 # - name: Arxiv
 #  url: https://arxiv.org/abs/2303.09128
-url_pdf: 'https://arxiv.org/pdf/2303.09128.pdf'
-url_code: 'https://github.com/ShushanArakelyan/code_transfer'
-url_dataset: 'https://github.com/ShushanArakelyan/code_transfer'
-url_poster: '/assets/media/posters/EMNLP23-poster.pdf'
-url_project: 'https://github.com/ShushanArakelyan/code_transfer'
-url_slides: ''static/posters/EMNLP23-poster.pdf
-url_source: ''
-url_video: 'https://www.youtube.com/watch?v=XibHuQliPBc'
+url_pdf: https://arxiv.org/pdf/2303.09128.pdf
+url_code: https://github.com/ShushanArakelyan/code_transfer
+url_dataset: https://github.com/ShushanArakelyan/code_transfer
+url_poster: 
+url_project: https://github.com/ShushanArakelyan/code_transfer
+url_slides: static/posters/EMNLP23-poster.pdf
+url_source: 
+url_video: https://www.youtube.com/watch?v=XibHuQliPBc
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
