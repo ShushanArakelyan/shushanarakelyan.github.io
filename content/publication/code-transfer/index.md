@@ -33,7 +33,7 @@ url_code: https://github.com/ShushanArakelyan/code_transfer
 url_dataset: https://github.com/ShushanArakelyan/code_transfer
 url_poster: 
 url_project: https://github.com/ShushanArakelyan/code_transfer
-url_slides: static/posters/EMNLP23-poster.pdf
+url_slides: posters/EMNLP23-poster.pdf
 url_source: 
 url_video: https://www.youtube.com/watch?v=XibHuQliPBc
 
