@@ -12,8 +12,9 @@ sections:
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: shushan
   - block: collection
+    id: featured
     content:
-      title: Recent Publications
+      title: Featured Publications
       text: |-
       filters:
         folders:
