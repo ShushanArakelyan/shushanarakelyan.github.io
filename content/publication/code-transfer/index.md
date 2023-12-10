@@ -24,8 +24,9 @@ abstract: We systematically study the capacity of two large language models for 
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
-- ml for code; generalization; 
-featured: false
+- ml for code
+- generalization
+featured: yes
 
 links:
 - name: Arxiv
@@ -59,7 +60,4 @@ projects: [ML for Code, Generalizable Models for Code]
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: example
----
-
-# Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
+# slides: example

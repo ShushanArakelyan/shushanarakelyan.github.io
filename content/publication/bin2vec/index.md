@@ -31,7 +31,9 @@ abstract: Tackling binary program analysis problems has traditionally implied ma
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
-- ml for code; binary analysis; binary code representation; 
+- ml for code 
+- binary analysis
+- binary code representation
 featured: yes
 
 # links:
@@ -65,15 +67,4 @@ projects: [ML for Program Analysis]
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: "https://docs.google.com/presentation/d/142d7Z-4ffEVBLRuyD5YdHwhNjCHrrqAx/edit?usp=sharing&ouid=100437562451567329044&rtpof=true&sd=true"
----
-
-{{% callout note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
-
-{{% callout note %}}
-Create your slides in Markdown - click the *Slides* button to check out the example.
-{{% /callout %}}
-
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
+# slides: "https://docs.google.com/presentation/d/142d7Z-4ffEVBLRuyD5YdHwhNjCHrrqAx/edit?usp=sharing&ouid=100437562451567329044&rtpof=true&sd=true"
