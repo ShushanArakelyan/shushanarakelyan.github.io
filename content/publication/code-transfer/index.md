@@ -1,7 +1,10 @@
 ---
 title: "Exploring Distributional Shifts in Large Language Models for Code Analysis"
 authors:
-- Shushan Arakelyan, Rocktim Jyoti Das, Yi Mao, Xiang Ren
+- Shushan Arakelyan
+- Rocktim Jyoti Das 
+- Yi Mao
+- Xiang Ren
 date: "2023-03-15T00:00:00Z"
 doi: ""
 
@@ -31,10 +34,10 @@ featured: yes
 links:
 - name: Arxiv
   url: https://arxiv.org/abs/2303.09128
-url_pdf: https://arxiv.org/pdf/2303.09128.pdf
+url_pdf: 'https://arxiv.org/pdf/2303.09128.pdf'
 url_code: 'https://github.com/ShushanArakelyan/code_transfer'
 url_dataset: 'https://github.com/ShushanArakelyan/code_transfer'
-url_poster: '/assets/media/posters/EMNLP23-poster.pdf'
+url_poster: '#'
 url_project: 'https://github.com/ShushanArakelyan/code_transfer'
 url_slides: ''static/posters/EMNLP23-poster.pdf
 url_source: ''
